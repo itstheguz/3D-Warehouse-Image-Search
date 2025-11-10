@@ -1,0 +1,20 @@
+## Privacy Policy for 3D Warehouse Finder
+
+This policy applies to the 3D Warehouse Finder Chrome extension.
+
+**Data Collected:**
+The extension collects the following data only upon explicit user interaction (right-clicking an image and selecting the extension's context menu item):
+* The URL of the image that was right-clicked (Website Content).
+* The URL of the current webpage (User Activity).
+
+**Data Usage and Transfer:**
+The collected image and page URLs are immediately and solely used to construct a search query that is sent to the 3D Warehouse server at `https://3dwarehouse.sketchup.com` to initiate an image search.
+
+**Data Storage:**
+The extension does not store, log, or retain any user data. All data is processed in memory for the single search function and discarded immediately thereafter.
+
+**Data Sharing:**
+No user data is sold, rented, or transferred to any third party other than the data necessary to perform the core function (i.e., sending the query to the 3D Warehouse domain).
+
+**No Personally Identifiable Information (PII):**
+The extension does not access, collect, or transmit any personally identifiable information, financial information, health data, or web history.
